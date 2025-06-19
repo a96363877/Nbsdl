@@ -105,7 +105,7 @@ export default function Home() {
       {/* Hero Banner */}
       <div className="relative mx-6 my-8 rounded-3xl overflow-hidden shadow-2xl">
         <div className="absolute inset-0 bg-gradient-to-r from-slate-900/60 via-purple-900/40 to-red-500/60 z-10"></div>
-        <img src="/hero-banner.jpg" alt="Hero Banner" className="w-full h-[380px] object-cover" />
+        <img src="/afas.webp" alt="Hero Banner" className="w-full h-[380px] object-cover" />
         <div className="absolute inset-0 z-20 p-8 flex flex-col justify-between">
           <div className="bg-white/95 backdrop-blur-sm rounded-2xl p-4 w-40 text-center shadow-lg border border-white/20">
             <div className="text-red-500 font-bold text-xl">خلك ON</div>
